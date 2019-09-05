@@ -1,14 +1,17 @@
 body{
-	font-family: Roboto;
+	font-family: Roboto, Arial, sans-serif;
 }
 
 
 h1{
-	font-size: 3em;
+	font-size: 3rem;
 	color: lightblue;
 
 }
 
 h3{
-	font-size: 1.2em;
+	font-size: 1.2rem;
+}
+h4{
+	text-transform: uppercase;
 }
