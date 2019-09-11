@@ -119,3 +119,66 @@ ul{
 .card_button{
     margin:0 0.5em 1em 1em;/* top, right, bottom, left */
 }
+
+
+
+
+
+
+
+nav{
+    background-color: darkcyan;
+    padding:0.15em;
+}
+
+.navbar_list{
+    display:flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+    
+.navbar_li{
+    margin: 0 1em;
+}
+
+.navbar_li a{
+    color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
