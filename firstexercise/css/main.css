@@ -1,3 +1,4 @@
+@import "layout.css";
 /* Components Styles  */
 
 /* *********** General Styles ********** */
@@ -9,15 +10,16 @@
 body{
     font-family:Roboto, Arial, sans-serif;
     color:#333;
+    
 }
 
 /* *********** Text Styles ********** */
 
 h1{
     font-family:Roboto-light, Arial, sans-serif;
-    font-size:3rem; /* three times the size of the default font-size */
-    font-weight:normal;
-    color:darkcyan;
+    font-size:4rem; /* three times the size of the default font-size */
+    font-weight:bold;
+    color:black;
 }
 
 h2{
