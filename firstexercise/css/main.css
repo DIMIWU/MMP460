@@ -3,8 +3,8 @@
 
 /* *********** General Styles ********** */
 *{
-    margin:0 auto;
-    padding:10px;
+    margin:10px auto;
+    padding:0;
 }
 
 body{
@@ -48,6 +48,10 @@ a{
 ul{
     margin-top:1em;
     margin-bottom:1em;
+}
+#img-l{
+  width: 100%;
+  text-align: center;
 }
 
 .list{
@@ -134,18 +138,15 @@ nav ul{
     text-align: center;
 }
 
-.navbar_list{
-    display:flex;
-    flex-direction: row;
+.navbar_list li{
+    display:inline-block;
     list-style-type: none;
+     margin: 0.1em;
 }
     
-.navbar_li{
-    margin: 0.1em;
-}
 
 .navbar_li a{
-    color:#fff;
+    color:black;
 }
 
 
